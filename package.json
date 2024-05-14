@@ -1,0 +1,25 @@
+{
+  "name": "test-cypress-grep",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lasithdilshan20/test-cypress-grep.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lasithdilshan20/test-cypress-grep/issues"
+  },
+  "homepage": "https://github.com/lasithdilshan20/test-cypress-grep#readme",
+  "dependencies": {
+    "cypress": "^13.9.0"
+  },
+  "devDependencies": {
+    "@cypress/grep": "^4.0.1"
+  }
+}
